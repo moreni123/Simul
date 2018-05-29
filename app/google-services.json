@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "821110101178",
+    "firebase_url": "https://simul-b1af3.firebaseio.com",
+    "project_id": "simul-b1af3",
+    "storage_bucket": "simul-b1af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821110101178:android:37db95bbcd791055",
+        "android_client_info": {
+          "package_name": "com.simul.lapps.simul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821110101178-2audf8t26fu260jhqvnia244pgv2ibvc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "821110101178-2audf8t26fu260jhqvnia244pgv2ibvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5AQsk9SRDS4C-BWNqpUpW2FMmuNYZZME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
